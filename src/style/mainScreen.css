@@ -1,0 +1,12 @@
+.levelSelector {
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    width: 1000px;
+    margin: 50px;
+}
+
+.txt{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}

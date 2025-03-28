@@ -1,0 +1,18 @@
+.box {
+    background-color:aqua;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+
+}
+
+.box h2 {
+    font-size: 75px;
+    color: #000;
+    margin-bottom: 0px;
+}
+
+.txt {
+    color: #000;
+    font-weight: bold;
+}
